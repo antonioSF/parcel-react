@@ -1,3 +1,1 @@
-# Ecommerce Frontend dev
-
-Award project
+# React with parcel bundle
